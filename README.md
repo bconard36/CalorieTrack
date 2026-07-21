@@ -3,7 +3,7 @@
 A React application that calculates BMI, BMR, and TDEE based on user input. Inputs are validated in real time and on form submission. 
 Term and definition modal windows provide information about the values calculated. 
 
-**Live Site**:
+**Live Site**: https://calorie-track-calculator.vercel.app/
 
 # Folder List
 - public
